@@ -1,7 +1,7 @@
 {
   "name": "koishi-plugin-foot-clock",
   "description": "在控制台底部添加一个时钟",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
   "files": [
@@ -20,8 +20,8 @@
     "plugin"
   ],
   "peerDependencies": {
-    "koishi": "^4.17.4",
-    "@koishijs/plugin-console": "^5.11.0"
+    "@koishijs/plugin-console": "^5.11.0",
+    "koishi": "^4.17.4"
   },
   "devDependencies": {
     "@koishijs/client": "^5.11.0"
