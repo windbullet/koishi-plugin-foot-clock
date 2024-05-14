@@ -1,7 +1,7 @@
 {
   "name": "koishi-plugin-foot-clock",
   "description": "在控制台底部添加一个时钟",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
   "files": [
@@ -9,10 +9,10 @@
     "dist"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/windbullet/koishi-plugin-api-foot-clock",
+  "homepage": "https://github.com/windbullet/koishi-plugin-foot-clock",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/windbullet/koishi-plugin-api-foot-clock.git"
+    "url": "git+https://github.com/windbullet/koishi-plugin-foot-clock.git"
   },
   "keywords": [
     "chatbot",
@@ -20,10 +20,10 @@
     "plugin"
   ],
   "peerDependencies": {
-    "@koishijs/plugin-console": "^5.11.0",
-    "koishi": "^4.17.4"
+    "@koishijs/plugin-console": "^5.28.4",
+    "koishi": "^4.17.5"
   },
   "devDependencies": {
-    "@koishijs/client": "^5.11.0"
+    "@koishijs/client": "^5.28.4"
   }
 }
